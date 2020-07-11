@@ -7,13 +7,7 @@ header a {
     font-size: 2rem;
     font-weight: 600;
     display: block;
-    padding: 2px;
-    border: 1px solid transparent;
     cursor: pointer;
-}
-header a:hover{
-    transition: 2s;
-    border: 1px solid black;
 }
 
 header {
